@@ -40,14 +40,14 @@
 
 - [ ConnectedPaper ](https://www.connectedpapers.com/)
 
-  ![image-20231202010713708](img\image-20231202010713708.png)
+  ![image-20231202010713708](https://github.com/JerryYin777/Cr_Research_Toolchain/blob/main/img/image-20231202010713708.png)
 
 - Inoreader
 
   * RSS阅读器，排除推荐算法的干扰
   * 配合[ RSSHub ](https://docs.rsshub.app/)使用更香，Everything is RSSible
 
-  ![image-20231202011323342](img\image-20231202011323342.png)
+  ![image-20231202011323342](https://github.com/JerryYin777/Cr_Research_Toolchain/blob/main/img/image-20231202011323342.png)
 
 - AI三大顶会(新智元、机器之心、量子位)：最前沿的AI讯息，不过带了很多吹水的成分，小白可以看看，方便了解行业讯息
 
@@ -70,13 +70,13 @@
   * CodeInterpreter：直接作图，作画等
   * 插件：ChatHub(Google插件，可以和Bard AI同时使用)
   
-![image-20231202124203847](img\image-20231202124203847.png)
+![image-20231202124203847](https://github.com/JerryYin777/Cr_Research_Toolchain/blob/main/img/image-20231202124203847.png)
   
   * 平替：[ GOODLab学术GPT ](https://huggingface.co/spaces/JerryYin777/gpt-academic-good)、代码GPT [ DeekSeek ](https://chat.deepseek.com/coder)、Poe(GPT3.5 Turbo + Claude【好处是上下文token能够增加，号称至多200K】)
   
 - [ Airy(LLM for System) ](https://colink.in/)
 
-  ![image-20231202010108149](img\image-20231202010108149.png)
+  ![image-20231202010108149](https://github.com/JerryYin777/Cr_Research_Toolchain/blob/main/img/image-20231202010108149.png)
 
 ### SSH工具
 
