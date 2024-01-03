@@ -1,5 +1,7 @@
 ## Cr‘s Research Toolchain
 
+[[English]](https://github.com/JerryYin777/Cr_Research_Toolchain/blob/main/README_en.md)  &nbsp; [[中文]](https://github.com/JerryYin777/Cr_Research_Toolchain/edit/main/README.md)
+
 **所有软件支持Windows和MacOS双端**
 
 ### 文献阅读器
